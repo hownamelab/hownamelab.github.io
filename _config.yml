@@ -27,7 +27,7 @@ twitter_username:  https://twitter.com/QQ_yaoyu?s=09
 github_username:  hownamelab
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
