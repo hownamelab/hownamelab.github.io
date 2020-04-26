@@ -21,8 +21,6 @@
 title: howname的窝
 email: hownam3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-这是一些日记，也只是一些日记。
-书单:洞穴奇案，自私的基因，群主论，乌合之众
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  https://twitter.com/QQ_yaoyu?s=09
